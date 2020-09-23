@@ -1,0 +1,10 @@
+<view class="user_info_wrap">
+  <view class="user_img_wrap">
+    <image class="user_bg">
+      <view class="user_info">
+        <image class="user_icon"></image>
+        <view class="user_name"></view>
+      </view>
+    </image>
+  </view>
+</view>

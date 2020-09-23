@@ -1,0 +1,4 @@
+button {
+  width: 70%;
+  padding-top: 40rpx;
+}
